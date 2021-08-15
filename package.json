@@ -1,0 +1,16 @@
+{
+  "name": "google-Replica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d google-Replica"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://Emmyadams007.github.io/google-Replica",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
